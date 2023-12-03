@@ -1,6 +1,12 @@
 
 
-João Douglas Rocha Brandão  - 819215906, Carlos Eduardo Teixeira Aguilar -  82010636, William Barbosa Lima - 82315548, Bruno Vieira de Oliveira - 81920381, Davi Yenikomochian Destro - 819168948, Aline Cristina Gonçalves dos Santos - 819120664, Guilherme de Carvalho Maires - 822125107.
+- João Douglas Rocha Brandão  - 819215906.
+- Carlos Eduardo Teixeira Aguilar -  82010636.
+- William Barbosa Lima - 82315548.
+- Bruno Vieira de Oliveira - 81920381.
+- Davi Yenikomochian Destro - 819168948.
+- Aline Cristina Gonçalves dos Santos - 819120664.
+- Guilherme de Carvalho Maires - 822125107.
 
 
 Nosso projeto oferece um sistema de banco de dados SQLite para gerenciar clientes e livros,
