@@ -27,6 +27,9 @@ Editar.
 Deletar.
 - Clientes: Remova clientes que não são mais necessários.
 - Livros: remove livros que não fazem parte do catálogo atual.
+
+
+- Link do vídeo da aplicação sendo executada e testando as suas funcionalidades: https://youtu.be/kwxCQkxlUmI?si=RioyKq45IKrC781w
  
 
 
