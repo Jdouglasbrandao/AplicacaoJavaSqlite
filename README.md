@@ -13,16 +13,16 @@ Nosso projeto oferece um sistema de banco de dados SQLite para gerenciar cliente
 proporcionando uma experiência completa de CRUD. Estas são as funcionalidades principais:  
 
 Consultar.
-- Clientes: Visualize detalhes como nome, gênero, CPF e data de nascimento.
-- Livros: Consulte informações como título, autor e gênero.
+- Clientes: Consulta detalhes como; nome, gênero, CPF e data de nascimento.
+- Livros: Consulta informações como título, autor e gênero.
 
 Adicionar.
-- Clientes: Adicione novos clientes, como; nome, gênero, CPF e data de nascimento. 
+- Clientes: Adiciona novos clientes, como; nome, gênero, CPF e data de nascimento. 
 - Livros: Adiciona novos livros ao catálogo, fornecendo título, autor e gênero.
 
 Editar.
-- Clientes: Atualize informações, como; nome, CPF, gênero e data de nascimento. 
-- Livros: Altera detalhes, como; o título, autor e gênero de um livro.
+- Clientes: Atualiza informações, como; nome, CPF, gênero e data de nascimento. 
+- Livros: Atualiza informações, como; o título, autor e gênero de um livro.
 
 Deletar.
 - Clientes: Remova clientes que não são mais necessários.
