@@ -9,7 +9,7 @@
 - Guilherme de Carvalho Maires - 822125107.
 
 
-Nosso projeto oferece um sistema de banco de dados SQLite para gerenciar clientes e livros,
+Nosso projeto oferece uma aplicação JAVA com consultas em um banco dados SQLite para gerenciar clientes e livros,
 proporcionando uma experiência completa de CRUD. Estas são as funcionalidades principais:  
 
 Consultar.
