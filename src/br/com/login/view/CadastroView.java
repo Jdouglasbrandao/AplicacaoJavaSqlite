@@ -6,10 +6,6 @@ import javax.swing.JOptionPane;
 import javax.swing.JPasswordField;
 import javax.swing.JTextField;
 
-/**
- *
- * @author tacio_inxtpj9
- */
 public class CadastroView extends javax.swing.JFrame {
 
     public CadastroView() {
