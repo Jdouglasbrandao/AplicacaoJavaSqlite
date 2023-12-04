@@ -25,7 +25,7 @@ Editar.
 - Livros: Atualiza informações, como; o título, autor e gênero de um livro.
 
 Deletar.
-- Clientes: Remova clientes que não são mais necessários.
+- Clientes: Remove clientes que não são mais necessários.
 - Livros: remove livros que não fazem parte do catálogo atual.
 
 -------------------------------------------------------------------------------------------
