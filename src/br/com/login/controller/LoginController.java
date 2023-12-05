@@ -40,10 +40,10 @@ public class LoginController {
             if (loginBemSucedido) {
                 System.out.println("Login bem-sucedido!");
 
-                // Exibir a tela principal
+       
                 abrirJanelaPrincipal();
 
-                // Fechar a janela de login
+         
                 view.dispose();
 
             } else {
